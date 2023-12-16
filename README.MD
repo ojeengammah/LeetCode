@@ -38,7 +38,7 @@ Please ensure that your code is well-documented, and feel free to provide explan
 ## Connect with Me
 
 - [GitHub](https://github.com/ojeengammah)
-- [LinkedIn](https://www.linkedin.com/in/ojeen-gammah/)
+- [LinkedIn](https://www.linkedin.com/in/ojeengammah/)
 - [Email](mailto:ogammah@Ucsd.edu)
 - [Personal Website](https://www.ojeengammah.com)
 
